@@ -7,3 +7,4 @@ Daily SQL practice on HackerRank, written in MySQL.
 | Revising the Select Query I | Easy | SELECT, WHERE, AND |
 | Revising the Select Query II | Easy | SELECT, WHERE, AND |
 | Select All | Easy | SELECT, FROM |
+| Select By ID | Easy | SELECT, FROM, WHERE |
